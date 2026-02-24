@@ -1,0 +1,50 @@
+[
+    {
+        "id": "cat-finance",
+        "name": "Finance",
+        "slug": "finance",
+        "parent_id": null,
+        "icon": "💰",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "cat-marketing",
+        "name": "Marketing",
+        "slug": "marketing",
+        "parent_id": null,
+        "icon": "📊",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "cat-hr",
+        "name": "HR",
+        "slug": "hr",
+        "parent_id": null,
+        "icon": "👥",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "cat-sales",
+        "name": "Sales",
+        "slug": "sales",
+        "parent_id": null,
+        "icon": "💼",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "cat-pm",
+        "name": "Project Management",
+        "slug": "project-management",
+        "parent_id": null,
+        "icon": "📋",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "cat-personal",
+        "name": "Personal",
+        "slug": "personal",
+        "parent_id": null,
+        "icon": "👤",
+        "created_at": "2026-01-01T00:00:00Z"
+    }
+]

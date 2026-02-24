@@ -1,0 +1,38 @@
+[
+    {
+        "id": "tag-monthly",
+        "name": "monthly",
+        "slug": "monthly",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "tag-weekly",
+        "name": "weekly",
+        "slug": "weekly",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "tag-report",
+        "name": "report",
+        "slug": "report",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "tag-dashboard",
+        "name": "dashboard",
+        "slug": "dashboard",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "tag-tracker",
+        "name": "tracker",
+        "slug": "tracker",
+        "created_at": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "tag-simple",
+        "name": "simple",
+        "slug": "simple",
+        "created_at": "2026-01-01T00:00:00Z"
+    }
+]
